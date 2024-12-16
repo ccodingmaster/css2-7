@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main_container {
+    max-width: 1604px;
+    width: 100%;
+    margin: 226px auto 226px auto;
+    padding: 96px;
+    background: #1B0E0F;
+}
+
+
+#main_container_content {
+    max-width: 1412px;
+    width: 100%;
+    padding: 96px 0;
+    background: #FFF;
+}
+
+#header_container {
+    max-width: 1280px;
+    width: 100%;
+    height: 150px;
+    padding: 0px 32px;
+    margin: 0 auto;
+}
+
+#blog {
+    width: 100%;
+    color: #002AFE;
+    text-align: center;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-md, 16px);
+    line-height: var(--Line-height-text-md, 24px);
+}
+
+h1 {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    line-height: 60px;
+    margin-top: 12px;
+    margin-bottom: 24px;
+}
+
+#headerp {
+    color: #535862;
+    text-align: center;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-xl, 20px);
+    line-height: var(--Line-height-text-xl, 30px);
+}
+
+
+#first_container {
+    max-width: 1280px;
+    width: 100%;
+    height: 462px;
+    margin: 56px auto;
+}
+
+
+#first_container_right {
+    max-width: 584px;
+    width: 100%;
+    height: 275px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#collaboration_img {
+    vertical-align: middle;
+    margin-right: 92px;
+}
+
+
+#design {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+#designers {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+}
+
+h2 {
+    max-width: 500px;
+    width: 100%;
+    vertical-align: middle;
+    display: inline-block;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+}
+
+#collaboration {
+    color: #535862;
+    font-family: Inter;
+    text-overflow: ellipsis;
+    margin-bottom: 24px;
+    font-size: 16px;
+
+}
+
+#arrow {
+    vertical-align: middle;
+}
+
+
+#natali_craig {
+    display: inline-block;
+}
+
+
+#second_container {
+    max-width: 1280px;
+    width: 100%;
+    height: 462px;
+    margin: 56px auto;
+}
+
+
+#third_container{
+    max-width: 1280px;
+    width: 100%;
+    height: 462px;
+    margin: 56px auto;
+}
